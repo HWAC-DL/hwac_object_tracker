@@ -22,6 +22,16 @@ The block design of our architecture is as follows,
 The Vivado block design connecting our IP to the Zynq Processing System is as follows,
 
 ![alt text](Others/BD2.png?raw=true "Title")
+
+# Resource Utilization 
+
+Resource Utilization :
+
+![alt text](Others/ResourceUtilization.JPG?raw=true "Title")
+
+Power estimate : 
+
+![alt text](Others/Power.JPG?raw=true "Title")
    
 # Repo Organization
 
